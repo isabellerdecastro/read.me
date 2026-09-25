@@ -1,7 +1,7 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou [Isabelle] 👋
 
 ## 👨‍💻 Sobre mim
-Sou [Sua Profissão — ex: Desenvolvedor Front‑end] com foco em [área de interesse atual — ex: React, Acessibilidade, UI/UX]. Gosto de construir interfaces limpas e experiências de usuário intuitivas. Estou sempre aprendendo e aberto a novos desafios.
+Gosto de construir interfaces limpas e experiências de usuário intuitivas. Estou sempre aprendendo e aberto a novos desafios.
 
 ## 🛠️ Tecnologias & Ferramentas
 - Front-end: HTML, CSS, JavaScript, React
